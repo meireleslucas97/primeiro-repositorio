@@ -1,8 +1,9 @@
-#Livro de Receitas :book:
+# Livro de Receitas :book:
+
 ***
 Seja bem vindo ao meu livro de receitas!
 
-###Receitas:
+### Receitas:
 
 - Bolo de milho 🌽
 - Maminha defumada 🥩
